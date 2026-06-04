@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Medium/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -15,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Medium/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -26,4 +28,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/2169-count-operations-to-obtain-zero/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Medium/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Medium/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
 <!---LeetCode Topics End-->
