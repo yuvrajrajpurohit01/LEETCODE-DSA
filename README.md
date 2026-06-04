@@ -19,4 +19,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2109-adding-spaces-to-a-string](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/2109-adding-spaces-to-a-string/) | Medium |
+| [2169-count-operations-to-obtain-zero](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/2169-count-operations-to-obtain-zero/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2169-count-operations-to-obtain-zero](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/2169-count-operations-to-obtain-zero/) | Easy |
 <!---LeetCode Topics End-->
