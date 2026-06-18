@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2956-find-common-elements-between-two-arrays](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3649-number-of-perfect-pairs](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Medium/3649-number-of-perfect-pairs/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/2169-count-operations-to-obtain-zero/) | Easy |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3649-number-of-perfect-pairs](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Medium/3649-number-of-perfect-pairs/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3945-digit-frequency-score](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/3945-digit-frequency-score/) | Easy |
@@ -98,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Medium/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/3432-count-partitions-with-even-sum-difference/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
