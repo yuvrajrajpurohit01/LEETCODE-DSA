@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Medium/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1800-maximum-ascending-subarray-sum](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/1800-maximum-ascending-subarray-sum/) | Easy |
 | [1816-truncate-sentence](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/1816-truncate-sentence/) | Easy |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Medium/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -132,4 +133,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0647-palindromic-substrings](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Medium/0647-palindromic-substrings/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 <!---LeetCode Topics End-->
