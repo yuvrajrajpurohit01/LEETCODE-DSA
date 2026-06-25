@@ -1,8 +1,5 @@
 class Solution {
     public int minOperations(int[] nums) {
-        
-        int left = 0;
-        int right = left+2;
         int count = 0;
         
         for(int i = 0 ; i<=nums.length - 3 ; i++){
