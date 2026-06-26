@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/0414-third-maximum-number/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [1051-height-checker](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/1051-height-checker/) | Easy |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Medium/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/1389-create-target-array-in-the-given-order/) | Easy |
 | [1470-shuffle-the-array](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/1470-shuffle-the-array/) | Easy |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Medium/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Medium/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Medium/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -144,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Medium/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
