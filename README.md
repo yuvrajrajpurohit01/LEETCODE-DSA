@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2956-find-common-elements-between-two-arrays](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Medium/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3649-number-of-perfect-pairs](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Medium/3649-number-of-perfect-pairs/) | Medium |
 ## Two Pointers
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2109-adding-spaces-to-a-string](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2169-count-operations-to-obtain-zero](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/2169-count-operations-to-obtain-zero/) | Easy |
 | [2562-find-the-array-concatenation-value](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/2562-find-the-array-concatenation-value/) | Easy |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/2169-count-operations-to-obtain-zero/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/2485-find-the-pivot-integer/) | Easy |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3649-number-of-perfect-pairs](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Medium/3649-number-of-perfect-pairs/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -198,4 +201,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 <!---LeetCode Topics End-->
