@@ -23,6 +23,5 @@ class Solution {
         result += Integer.toBinaryString(integer);
         
         return result;
-
     }
 }
