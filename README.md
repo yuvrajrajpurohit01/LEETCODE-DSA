@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
 | [0647-palindromic-substrings](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Medium/0647-palindromic-substrings/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/1768-merge-strings-alternately/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Medium/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
@@ -225,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Medium/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
@@ -244,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0155-min-stack](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Medium/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [3174-clear-digits](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/3174-clear-digits/) | Easy |
@@ -310,4 +313,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 <!---LeetCode Topics End-->
