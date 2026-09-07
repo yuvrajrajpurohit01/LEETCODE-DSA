@@ -247,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0622-design-circular-queue](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Medium/0622-design-circular-queue/) | Medium |
+| [0933-number-of-recent-calls](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/0933-number-of-recent-calls/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Medium/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -331,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0155-min-stack](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
 | [0622-design-circular-queue](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Medium/0622-design-circular-queue/) | Medium |
+| [0933-number-of-recent-calls](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/0933-number-of-recent-calls/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -344,4 +346,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->
