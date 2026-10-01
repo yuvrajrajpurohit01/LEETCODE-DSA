@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3536-maximum-product-of-two-digits](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/3536-maximum-product-of-two-digits/) | Easy |
 | [3649-number-of-perfect-pairs](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Medium/3649-number-of-perfect-pairs/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3870-count-commas-in-range](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/3870-count-commas-in-range/) | Easy |
 | [3945-digit-frequency-score](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/3945-digit-frequency-score/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
