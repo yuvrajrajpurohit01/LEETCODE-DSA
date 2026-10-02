@@ -1,6 +1,5 @@
 class Solution {
     public int searchInsert(int[] nums, int target) {
-        int n = nums.length;
         int low = 0;
         int high = nums.length - 1 ;
         int ans = nums.length;
