@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3870-count-commas-in-range](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/3875-construct-uniform-parity-array-i/) | Easy |
+| [3908-valid-digit-number](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/3908-valid-digit-number/) | Easy |
 | [3945-digit-frequency-score](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/3945-digit-frequency-score/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
