@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2562-find-the-array-concatenation-value](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/2562-find-the-array-concatenation-value/) | Easy |
 | [3174-clear-digits](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/3174-clear-digits/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
+| [3959-check-good-integer](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/3959-check-good-integer/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3875-construct-uniform-parity-array-i](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 | [3908-valid-digit-number](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/3908-valid-digit-number/) | Easy |
 | [3945-digit-frequency-score](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/3945-digit-frequency-score/) | Easy |
+| [3959-check-good-integer](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/3959-check-good-integer/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
