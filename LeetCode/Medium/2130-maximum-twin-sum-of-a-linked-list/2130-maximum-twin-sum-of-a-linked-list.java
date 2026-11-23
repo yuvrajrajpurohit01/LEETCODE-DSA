@@ -10,18 +10,22 @@
  */
 class Solution {
     public int pairSum(ListNode head) {
-        int sum = 0;
-        ArrayList<Integer> arr = new ArrayList<>();
+        int max = 0;
+        Stack<Integer> s = new Stack<>();
+
         ListNode temp = head;
-        while(temp!= null){
-            arr.add(temp.val);
-            temp = temp.next; 
+
+        while(temp != null){
+            s.push(temp.val);
+            temp = temp.next;
         }
-        int n = arr.size();
-        for(int i = 0 ; i<arr.size()/2 ; i++){
-            int tws = arr.get(i)+arr.get(n-1-i);
-            sum = Math.max(tws,sum);
+
+        temp = head;
+        while(temp != null){
+            int sum = s.pop()+temp.val;
+            max = Math.max(sum,max);
+            temp = temp.next;
         }
-        return sum;
+        return max;
     }
 }
