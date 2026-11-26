@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
+| [0392-is-subsequence](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 | [0647-palindromic-substrings](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Medium/0647-palindromic-substrings/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Medium/1721-swapping-nodes-in-a-linked-list/) | Medium |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
+| [0392-is-subsequence](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 | [0647-palindromic-substrings](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Medium/0647-palindromic-substrings/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
@@ -290,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
+| [0392-is-subsequence](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 | [0647-palindromic-substrings](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Medium/0647-palindromic-substrings/) | Medium |
 | [0877-stone-game](https://github.com/yuvrajrajpurohit01/LEETCODE-DSA/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
